@@ -1,0 +1,3 @@
+Revert ":tada: Added .gitattributes & .gitignore files"
+
+This reverts commit 35057ca6759974b08a9b5da95719625d9fc04067.
